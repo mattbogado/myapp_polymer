@@ -1,0 +1,20 @@
+{
+  "name": "callsheets",
+  "version": "0.0.0",
+  "authors": [
+    "mattbogado"
+  ],
+  "description": "callsheets webapp",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.5",
+    "core-icons": "Polymer/core-icons#~0.5.5",
+    "core-elements": "Polymer/core-elements#~0.5.5",
+    "paper-elements": "Polymer/paper-elements#~0.5.5"
+  }
+}

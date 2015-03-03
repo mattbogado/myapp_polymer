@@ -1,0 +1,23 @@
+/* GLOBAL */
+
+html,body {
+    background-color: #E5E5E5;
+    font-family: 'RobotoDraft', sans-serif;
+}
+
+/* CORE-TOOLBAR */
+core-toolbar {
+    background-color: #03a9f4;
+    color: white;
+}
+
+/* DRAWER */
+[main] {
+    background-color: #f9f9f9;
+}
+[drawer] {
+    background-color: white;
+}
+core-drawer-panel:not([narrow]) #navicon {
+    display: none;
+}
